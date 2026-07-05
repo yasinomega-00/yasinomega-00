@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm yasin Junior Web developer
+i'm yasin Senior Web developer
 
 
 # 💻 Tech Stack:
