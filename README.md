@@ -1,5 +1,6 @@
 # 💫 About Me:
 i'm yasin FrontEnd developer 
+my discord id :yasin_omega
 
 
 # 💻 Tech Stack:
